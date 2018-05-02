@@ -1,0 +1,6 @@
+C:\Users\dvasilev\Documents\SharpDevelop Projects\DataTypes-II\RefractorPyramideVol\bin\Debug\04.RefractorPyramideVol.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\DataTypes-II\RefractorPyramideVol\bin\Debug\04.RefractorPyramideVol.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\DataTypes-II\RefractorPyramideVol\bin\Debug\04.RefractorPyramideVol.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\DataTypes-II\RefractorPyramideVol\obj\Debug\04.RefractorPyramideVol.csprojResolveAssemblyReference.cache
+C:\Users\dvasilev\Documents\SharpDevelop Projects\DataTypes-II\RefractorPyramideVol\obj\Debug\04.RefractorPyramideVol.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\DataTypes-II\RefractorPyramideVol\obj\Debug\04.RefractorPyramideVol.pdb

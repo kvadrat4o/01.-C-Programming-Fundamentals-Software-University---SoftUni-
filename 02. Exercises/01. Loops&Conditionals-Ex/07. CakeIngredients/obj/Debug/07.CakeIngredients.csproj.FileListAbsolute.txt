@@ -1,0 +1,5 @@
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Loops&Conditionals-Ex\CakeIngredients\bin\Debug\07.CakeIngredients.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Loops&Conditionals-Ex\CakeIngredients\bin\Debug\07.CakeIngredients.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Loops&Conditionals-Ex\CakeIngredients\bin\Debug\07.CakeIngredients.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Loops&Conditionals-Ex\CakeIngredients\obj\Debug\07.CakeIngredients.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Loops&Conditionals-Ex\CakeIngredients\obj\Debug\07.CakeIngredients.pdb

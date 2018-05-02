@@ -1,0 +1,5 @@
+C:\Users\dvasilev\Documents\SharpDevelop Projects\MethodsAnDebugging\TriangleArea\bin\Debug\05.TriangleArea.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\MethodsAnDebugging\TriangleArea\bin\Debug\05.TriangleArea.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\MethodsAnDebugging\TriangleArea\bin\Debug\05.TriangleArea.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\MethodsAnDebugging\TriangleArea\obj\Debug\05.TriangleArea.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\MethodsAnDebugging\TriangleArea\obj\Debug\05.TriangleArea.pdb

@@ -1,0 +1,12 @@
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Dictionaries&Lambda&LINQ\largest3Nums\bin\Debug\04.Largest3Nums.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Dictionaries&Lambda&LINQ\largest3Nums\bin\Debug\04.Largest3Nums.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Dictionaries&Lambda&LINQ\largest3Nums\bin\Debug\04.Largest3Nums.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Dictionaries&Lambda&LINQ\largest3Nums\obj\Debug\04.Largest3Nums.csprojResolveAssemblyReference.cache
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Dictionaries&Lambda&LINQ\largest3Nums\obj\Debug\04.Largest3Nums.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Dictionaries&Lambda&LINQ\largest3Nums\obj\Debug\04.Largest3Nums.pdb
+E:\Coding\#DevelopProjects\01.TechnologyFundamentals\1.1 Programing Fundamentals\Dictionaries&Lambda&LINQ\largest3Nums\bin\Debug\04.Largest3Nums.exe.config
+E:\Coding\#DevelopProjects\01.TechnologyFundamentals\1.1 Programing Fundamentals\Dictionaries&Lambda&LINQ\largest3Nums\bin\Debug\04.Largest3Nums.exe
+E:\Coding\#DevelopProjects\01.TechnologyFundamentals\1.1 Programing Fundamentals\Dictionaries&Lambda&LINQ\largest3Nums\bin\Debug\04.Largest3Nums.pdb
+E:\Coding\#DevelopProjects\01.TechnologyFundamentals\1.1 Programing Fundamentals\Dictionaries&Lambda&LINQ\largest3Nums\obj\Debug\04.Largest3Nums.csprojResolveAssemblyReference.cache
+E:\Coding\#DevelopProjects\01.TechnologyFundamentals\1.1 Programing Fundamentals\Dictionaries&Lambda&LINQ\largest3Nums\obj\Debug\04.Largest3Nums.exe
+E:\Coding\#DevelopProjects\01.TechnologyFundamentals\1.1 Programing Fundamentals\Dictionaries&Lambda&LINQ\largest3Nums\obj\Debug\04.Largest3Nums.pdb

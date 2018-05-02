@@ -1,0 +1,10 @@
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Dictionaries&Lambda&LINQ\ShortWordSorted\bin\Debug\05.ShortWordSorted.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Dictionaries&Lambda&LINQ\ShortWordSorted\bin\Debug\05.ShortWordSorted.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Dictionaries&Lambda&LINQ\ShortWordSorted\bin\Debug\05.ShortWordSorted.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Dictionaries&Lambda&LINQ\ShortWordSorted\obj\Debug\05.ShortWordSorted.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Dictionaries&Lambda&LINQ\ShortWordSorted\obj\Debug\05.ShortWordSorted.pdb
+E:\Coding\#DevelopProjects\01.TechnologyFundamentals\1.1 Programing Fundamentals\Dictionaries&Lambda&LINQ\ShortWordSorted\bin\Debug\05.ShortWordSorted.exe.config
+E:\Coding\#DevelopProjects\01.TechnologyFundamentals\1.1 Programing Fundamentals\Dictionaries&Lambda&LINQ\ShortWordSorted\bin\Debug\05.ShortWordSorted.exe
+E:\Coding\#DevelopProjects\01.TechnologyFundamentals\1.1 Programing Fundamentals\Dictionaries&Lambda&LINQ\ShortWordSorted\bin\Debug\05.ShortWordSorted.pdb
+E:\Coding\#DevelopProjects\01.TechnologyFundamentals\1.1 Programing Fundamentals\Dictionaries&Lambda&LINQ\ShortWordSorted\obj\Debug\05.ShortWordSorted.exe
+E:\Coding\#DevelopProjects\01.TechnologyFundamentals\1.1 Programing Fundamentals\Dictionaries&Lambda&LINQ\ShortWordSorted\obj\Debug\05.ShortWordSorted.pdb

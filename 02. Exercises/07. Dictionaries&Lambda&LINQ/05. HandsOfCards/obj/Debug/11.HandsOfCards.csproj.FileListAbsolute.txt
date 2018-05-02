@@ -1,0 +1,12 @@
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Dictionaries&Lambda&LINQ\HandsOfCards\bin\Debug\11.HandsOfCards.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Dictionaries&Lambda&LINQ\HandsOfCards\bin\Debug\11.HandsOfCards.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Dictionaries&Lambda&LINQ\HandsOfCards\bin\Debug\11.HandsOfCards.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Dictionaries&Lambda&LINQ\HandsOfCards\obj\Debug\11.HandsOfCards.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Dictionaries&Lambda&LINQ\HandsOfCards\obj\Debug\11.HandsOfCards.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Dictionaries&Lambda&LINQ\HandsOfCards\obj\Debug\11.HandsOfCards.csprojResolveAssemblyReference.cache
+E:\Coding\#DevelopProjects\01.TechnologyFundamentals\1.1 Programing Fundamentals\Dictionaries&Lambda&LINQ\HandsOfCards\bin\Debug\11.HandsOfCards.exe.config
+E:\Coding\#DevelopProjects\01.TechnologyFundamentals\1.1 Programing Fundamentals\Dictionaries&Lambda&LINQ\HandsOfCards\bin\Debug\11.HandsOfCards.exe
+E:\Coding\#DevelopProjects\01.TechnologyFundamentals\1.1 Programing Fundamentals\Dictionaries&Lambda&LINQ\HandsOfCards\bin\Debug\11.HandsOfCards.pdb
+E:\Coding\#DevelopProjects\01.TechnologyFundamentals\1.1 Programing Fundamentals\Dictionaries&Lambda&LINQ\HandsOfCards\obj\Debug\11.HandsOfCards.csprojResolveAssemblyReference.cache
+E:\Coding\#DevelopProjects\01.TechnologyFundamentals\1.1 Programing Fundamentals\Dictionaries&Lambda&LINQ\HandsOfCards\obj\Debug\11.HandsOfCards.exe
+E:\Coding\#DevelopProjects\01.TechnologyFundamentals\1.1 Programing Fundamentals\Dictionaries&Lambda&LINQ\HandsOfCards\obj\Debug\11.HandsOfCards.pdb

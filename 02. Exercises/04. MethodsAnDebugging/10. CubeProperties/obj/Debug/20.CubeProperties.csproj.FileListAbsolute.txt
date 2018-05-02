@@ -1,0 +1,5 @@
+C:\Users\dvasilev\Documents\SharpDevelop Projects\MethodsAnDebugging\CubeProperties\bin\Debug\20.CubeProperties.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\MethodsAnDebugging\CubeProperties\bin\Debug\20.CubeProperties.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\MethodsAnDebugging\CubeProperties\bin\Debug\20.CubeProperties.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\MethodsAnDebugging\CubeProperties\obj\Debug\20.CubeProperties.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\MethodsAnDebugging\CubeProperties\obj\Debug\20.CubeProperties.pdb

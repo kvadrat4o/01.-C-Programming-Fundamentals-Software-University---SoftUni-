@@ -1,0 +1,6 @@
+c:\users\dvasilev\documents\visual studio 2013\Projects\ExamPreparation\HornetAssault\bin\Debug\HornetAssault.exe.config
+c:\users\dvasilev\documents\visual studio 2013\Projects\ExamPreparation\HornetAssault\bin\Debug\HornetAssault.exe
+c:\users\dvasilev\documents\visual studio 2013\Projects\ExamPreparation\HornetAssault\bin\Debug\HornetAssault.pdb
+c:\users\dvasilev\documents\visual studio 2013\Projects\ExamPreparation\HornetAssault\obj\Debug\19.HornetAssault.csprojResolveAssemblyReference.cache
+c:\users\dvasilev\documents\visual studio 2013\Projects\ExamPreparation\HornetAssault\obj\Debug\HornetAssault.exe
+c:\users\dvasilev\documents\visual studio 2013\Projects\ExamPreparation\HornetAssault\obj\Debug\HornetAssault.pdb

@@ -1,0 +1,5 @@
+C:\Users\dvasilev\Documents\SharpDevelop Projects\DataTypes-II\WeatherForecast\bin\Debug\10.WeatherForecast.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\DataTypes-II\WeatherForecast\bin\Debug\10.WeatherForecast.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\DataTypes-II\WeatherForecast\bin\Debug\10.WeatherForecast.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\DataTypes-II\WeatherForecast\obj\Debug\10.WeatherForecast.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\DataTypes-II\WeatherForecast\obj\Debug\10.WeatherForecast.pdb

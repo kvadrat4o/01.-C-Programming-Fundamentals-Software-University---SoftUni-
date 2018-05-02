@@ -1,0 +1,5 @@
+C:\Users\dvasilev\Documents\SharpDevelop Projects\MethodsAnDebugging\PrimesInRange\bin\Debug\17.PrimesInRange.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\MethodsAnDebugging\PrimesInRange\bin\Debug\17.PrimesInRange.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\MethodsAnDebugging\PrimesInRange\bin\Debug\17.PrimesInRange.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\MethodsAnDebugging\PrimesInRange\obj\Debug\17.PrimesInRange.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\MethodsAnDebugging\PrimesInRange\obj\Debug\17.PrimesInRange.pdb

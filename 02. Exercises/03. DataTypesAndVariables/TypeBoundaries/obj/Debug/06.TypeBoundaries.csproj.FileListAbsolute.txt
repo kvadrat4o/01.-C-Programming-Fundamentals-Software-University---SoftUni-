@@ -1,0 +1,5 @@
+C:\Users\dvasilev\Documents\SharpDevelop Projects\DataTypes-II\TypeBoundaries\bin\Debug\06.TypeBoundaries.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\DataTypes-II\TypeBoundaries\bin\Debug\06.TypeBoundaries.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\DataTypes-II\TypeBoundaries\bin\Debug\06.TypeBoundaries.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\DataTypes-II\TypeBoundaries\obj\Debug\06.TypeBoundaries.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\DataTypes-II\TypeBoundaries\obj\Debug\06.TypeBoundaries.pdb

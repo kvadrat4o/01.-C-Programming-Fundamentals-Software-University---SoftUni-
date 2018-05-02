@@ -1,0 +1,5 @@
+C:\Users\dvasilev\Documents\SharpDevelop Projects\DataTypesAndVariables\IncrementVariable\bin\Debug\06.IncrementVariable.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\DataTypesAndVariables\IncrementVariable\bin\Debug\06.IncrementVariable.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\DataTypesAndVariables\IncrementVariable\bin\Debug\06.IncrementVariable.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\DataTypesAndVariables\IncrementVariable\obj\Debug\06.IncrementVariable.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\DataTypesAndVariables\IncrementVariable\obj\Debug\06.IncrementVariable.pdb

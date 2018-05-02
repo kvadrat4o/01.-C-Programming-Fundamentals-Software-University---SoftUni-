@@ -1,0 +1,5 @@
+C:\Users\dvasilev\Documents\SharpDevelop Projects\DataTypes-II\BoatSimulator\bin\Debug\20.BoatSimulator.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\DataTypes-II\BoatSimulator\bin\Debug\20.BoatSimulator.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\DataTypes-II\BoatSimulator\bin\Debug\20.BoatSimulator.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\DataTypes-II\BoatSimulator\obj\Debug\20.BoatSimulator.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\DataTypes-II\BoatSimulator\obj\Debug\20.BoatSimulator.pdb

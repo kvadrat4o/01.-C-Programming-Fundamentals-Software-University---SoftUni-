@@ -1,0 +1,5 @@
+C:\Users\dvasilev\Documents\SharpDevelop Projects\DataTypes-II\TouristInfo\bin\Debug\09.TouristInfo.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\DataTypes-II\TouristInfo\bin\Debug\09.TouristInfo.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\DataTypes-II\TouristInfo\bin\Debug\09.TouristInfo.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\DataTypes-II\TouristInfo\obj\Debug\09.TouristInfo.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\DataTypes-II\TouristInfo\obj\Debug\09.TouristInfo.pdb

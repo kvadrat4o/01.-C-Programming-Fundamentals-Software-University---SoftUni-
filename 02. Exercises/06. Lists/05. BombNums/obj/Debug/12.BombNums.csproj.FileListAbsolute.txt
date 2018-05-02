@@ -1,0 +1,5 @@
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Lists\BombNums\bin\Debug\12.BombNums.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Lists\BombNums\bin\Debug\12.BombNums.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Lists\BombNums\bin\Debug\12.BombNums.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Lists\BombNums\obj\Debug\12.BombNums.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Lists\BombNums\obj\Debug\12.BombNums.pdb

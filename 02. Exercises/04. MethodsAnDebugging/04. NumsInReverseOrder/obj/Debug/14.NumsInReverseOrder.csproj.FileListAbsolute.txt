@@ -1,0 +1,5 @@
+C:\Users\dvasilev\Documents\SharpDevelop Projects\MethodsAnDebugging\NumsInReverseOrder\bin\Debug\14.NumsInReverseOrder.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\MethodsAnDebugging\NumsInReverseOrder\bin\Debug\14.NumsInReverseOrder.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\MethodsAnDebugging\NumsInReverseOrder\bin\Debug\14.NumsInReverseOrder.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\MethodsAnDebugging\NumsInReverseOrder\obj\Debug\14.NumsInReverseOrder.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\MethodsAnDebugging\NumsInReverseOrder\obj\Debug\14.NumsInReverseOrder.pdb

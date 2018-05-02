@@ -1,0 +1,1 @@
+C:\Users\dvasilev\Documents\Visual Studio 2013\Projects\StringAndTextProcessing\BaseNToBase10\bin\Debug\BaseNToBase10.exe.config

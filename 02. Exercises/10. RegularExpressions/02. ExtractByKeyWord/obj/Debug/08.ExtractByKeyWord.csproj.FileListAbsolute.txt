@@ -1,0 +1,6 @@
+c:\users\dido\documents\visual studio 2017\Projects\RegularExpressions\ExtractByKeyWord\bin\Debug\ExtractByKeyWord.exe.config
+c:\users\dido\documents\visual studio 2017\Projects\RegularExpressions\ExtractByKeyWord\bin\Debug\ExtractByKeyWord.exe
+c:\users\dido\documents\visual studio 2017\Projects\RegularExpressions\ExtractByKeyWord\bin\Debug\ExtractByKeyWord.pdb
+c:\users\dido\documents\visual studio 2017\Projects\RegularExpressions\ExtractByKeyWord\obj\Debug\08.ExtractByKeyWord.csprojResolveAssemblyReference.cache
+c:\users\dido\documents\visual studio 2017\Projects\RegularExpressions\ExtractByKeyWord\obj\Debug\ExtractByKeyWord.exe
+c:\users\dido\documents\visual studio 2017\Projects\RegularExpressions\ExtractByKeyWord\obj\Debug\ExtractByKeyWord.pdb

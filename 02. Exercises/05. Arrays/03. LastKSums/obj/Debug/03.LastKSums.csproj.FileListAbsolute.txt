@@ -1,0 +1,6 @@
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Arrays\LastKSums\obj\Debug\03.LastKSums.csprojResolveAssemblyReference.cache
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Arrays\LastKSums\bin\Debug\03.LastKSums.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Arrays\LastKSums\bin\Debug\03.LastKSums.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Arrays\LastKSums\bin\Debug\03.LastKSums.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Arrays\LastKSums\obj\Debug\03.LastKSums.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Arrays\LastKSums\obj\Debug\03.LastKSums.pdb

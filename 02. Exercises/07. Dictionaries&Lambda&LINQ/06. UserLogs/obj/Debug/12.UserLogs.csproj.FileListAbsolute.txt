@@ -1,0 +1,10 @@
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Dictionaries&Lambda&LINQ\UserLogs\bin\Debug\12.UserLogs.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Dictionaries&Lambda&LINQ\UserLogs\bin\Debug\12.UserLogs.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Dictionaries&Lambda&LINQ\UserLogs\bin\Debug\12.UserLogs.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Dictionaries&Lambda&LINQ\UserLogs\obj\Debug\12.UserLogs.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Dictionaries&Lambda&LINQ\UserLogs\obj\Debug\12.UserLogs.pdb
+E:\Coding\#DevelopProjects\01.TechnologyFundamentals\1.1 Programing Fundamentals\Dictionaries&Lambda&LINQ\UserLogs\bin\Debug\12.UserLogs.exe.config
+E:\Coding\#DevelopProjects\01.TechnologyFundamentals\1.1 Programing Fundamentals\Dictionaries&Lambda&LINQ\UserLogs\bin\Debug\12.UserLogs.exe
+E:\Coding\#DevelopProjects\01.TechnologyFundamentals\1.1 Programing Fundamentals\Dictionaries&Lambda&LINQ\UserLogs\bin\Debug\12.UserLogs.pdb
+E:\Coding\#DevelopProjects\01.TechnologyFundamentals\1.1 Programing Fundamentals\Dictionaries&Lambda&LINQ\UserLogs\obj\Debug\12.UserLogs.exe
+E:\Coding\#DevelopProjects\01.TechnologyFundamentals\1.1 Programing Fundamentals\Dictionaries&Lambda&LINQ\UserLogs\obj\Debug\12.UserLogs.pdb

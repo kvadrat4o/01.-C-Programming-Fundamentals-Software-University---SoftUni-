@@ -1,0 +1,6 @@
+c:\users\dvasilev\documents\visual studio 2013\Projects\ExamPreparation\TrophonGrumpyCat\bin\Debug\TrophonGrumpyCat.exe.config
+c:\users\dvasilev\documents\visual studio 2013\Projects\ExamPreparation\TrophonGrumpyCat\bin\Debug\TrophonGrumpyCat.exe
+c:\users\dvasilev\documents\visual studio 2013\Projects\ExamPreparation\TrophonGrumpyCat\bin\Debug\TrophonGrumpyCat.pdb
+c:\users\dvasilev\documents\visual studio 2013\Projects\ExamPreparation\TrophonGrumpyCat\obj\Debug\22.Numbers.cs.csprojResolveAssemblyReference.cache
+c:\users\dvasilev\documents\visual studio 2013\Projects\ExamPreparation\TrophonGrumpyCat\obj\Debug\TrophonGrumpyCat.exe
+c:\users\dvasilev\documents\visual studio 2013\Projects\ExamPreparation\TrophonGrumpyCat\obj\Debug\TrophonGrumpyCat.pdb

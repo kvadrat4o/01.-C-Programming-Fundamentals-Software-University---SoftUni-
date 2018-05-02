@@ -1,0 +1,6 @@
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Arrays\TripleSum\obj\Debug\04.TripleSum.csprojResolveAssemblyReference.cache
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Arrays\TripleSum\bin\Debug\04.TripleSum.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Arrays\TripleSum\bin\Debug\04.TripleSum.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Arrays\TripleSum\bin\Debug\04.TripleSum.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Arrays\TripleSum\obj\Debug\04.TripleSum.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Arrays\TripleSum\obj\Debug\04.TripleSum.pdb

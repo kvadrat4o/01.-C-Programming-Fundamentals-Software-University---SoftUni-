@@ -1,0 +1,6 @@
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Lists\AppendLists\bin\Debug\02.AppendLists.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Lists\AppendLists\bin\Debug\02.AppendLists.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Lists\AppendLists\bin\Debug\02.AppendLists.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Lists\AppendLists\obj\Debug\02.AppendLists.csprojResolveAssemblyReference.cache
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Lists\AppendLists\obj\Debug\02.AppendLists.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Lists\AppendLists\obj\Debug\02.AppendLists.pdb

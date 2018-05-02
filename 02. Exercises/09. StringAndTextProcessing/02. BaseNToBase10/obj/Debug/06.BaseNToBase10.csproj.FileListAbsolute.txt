@@ -1,0 +1,6 @@
+C:\Users\dvasilev\Documents\Visual Studio 2013\Projects\StringAndTextProcessing\BaseNToBase10\bin\Debug\BaseNToBase10.exe.config
+C:\Users\dvasilev\Documents\Visual Studio 2013\Projects\StringAndTextProcessing\BaseNToBase10\bin\Debug\BaseNToBase10.exe
+C:\Users\dvasilev\Documents\Visual Studio 2013\Projects\StringAndTextProcessing\BaseNToBase10\bin\Debug\BaseNToBase10.pdb
+C:\Users\dvasilev\Documents\Visual Studio 2013\Projects\StringAndTextProcessing\BaseNToBase10\obj\Debug\06.BaseNToBase10.csprojResolveAssemblyReference.cache
+C:\Users\dvasilev\Documents\Visual Studio 2013\Projects\StringAndTextProcessing\BaseNToBase10\obj\Debug\BaseNToBase10.exe
+C:\Users\dvasilev\Documents\Visual Studio 2013\Projects\StringAndTextProcessing\BaseNToBase10\obj\Debug\BaseNToBase10.pdb

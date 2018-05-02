@@ -1,0 +1,10 @@
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Dictionaries&Lambda&LINQ\FoldAndSum\bin\Debug\06.FoldAndSum.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Dictionaries&Lambda&LINQ\FoldAndSum\bin\Debug\06.FoldAndSum.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Dictionaries&Lambda&LINQ\FoldAndSum\bin\Debug\06.FoldAndSum.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Dictionaries&Lambda&LINQ\FoldAndSum\obj\Debug\06.FoldAndSum.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Dictionaries&Lambda&LINQ\FoldAndSum\obj\Debug\06.FoldAndSum.pdb
+E:\Coding\#DevelopProjects\01.TechnologyFundamentals\1.1 Programing Fundamentals\Dictionaries&Lambda&LINQ\FoldAndSum\bin\Debug\06.FoldAndSum.exe.config
+E:\Coding\#DevelopProjects\01.TechnologyFundamentals\1.1 Programing Fundamentals\Dictionaries&Lambda&LINQ\FoldAndSum\bin\Debug\06.FoldAndSum.exe
+E:\Coding\#DevelopProjects\01.TechnologyFundamentals\1.1 Programing Fundamentals\Dictionaries&Lambda&LINQ\FoldAndSum\bin\Debug\06.FoldAndSum.pdb
+E:\Coding\#DevelopProjects\01.TechnologyFundamentals\1.1 Programing Fundamentals\Dictionaries&Lambda&LINQ\FoldAndSum\obj\Debug\06.FoldAndSum.exe
+E:\Coding\#DevelopProjects\01.TechnologyFundamentals\1.1 Programing Fundamentals\Dictionaries&Lambda&LINQ\FoldAndSum\obj\Debug\06.FoldAndSum.pdb

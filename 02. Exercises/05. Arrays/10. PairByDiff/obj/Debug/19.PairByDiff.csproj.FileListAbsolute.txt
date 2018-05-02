@@ -1,0 +1,5 @@
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Arrays\PairByDiff\bin\Debug\19.PairByDiff.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Arrays\PairByDiff\bin\Debug\19.PairByDiff.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Arrays\PairByDiff\bin\Debug\19.PairByDiff.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Arrays\PairByDiff\obj\Debug\19.PairByDiff.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Arrays\PairByDiff\obj\Debug\19.PairByDiff.pdb

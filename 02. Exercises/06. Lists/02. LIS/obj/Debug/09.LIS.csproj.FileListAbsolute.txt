@@ -1,0 +1,5 @@
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Lists\LIS\bin\Debug\09.LIS.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Lists\LIS\bin\Debug\09.LIS.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Lists\LIS\bin\Debug\09.LIS.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Lists\LIS\obj\Debug\09.LIS.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Lists\LIS\obj\Debug\09.LIS.pdb

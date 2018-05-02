@@ -1,0 +1,6 @@
+c:\users\dido\documents\visual studio 2017\Projects\RegularExpressions\MatchPhoneNumber\bin\Debug\MatchPhoneNumber.exe.config
+c:\users\dido\documents\visual studio 2017\Projects\RegularExpressions\MatchPhoneNumber\bin\Debug\MatchPhoneNumber.exe
+c:\users\dido\documents\visual studio 2017\Projects\RegularExpressions\MatchPhoneNumber\bin\Debug\MatchPhoneNumber.pdb
+c:\users\dido\documents\visual studio 2017\Projects\RegularExpressions\MatchPhoneNumber\obj\Debug\02.MatchPhoneNumber.csprojResolveAssemblyReference.cache
+c:\users\dido\documents\visual studio 2017\Projects\RegularExpressions\MatchPhoneNumber\obj\Debug\MatchPhoneNumber.exe
+c:\users\dido\documents\visual studio 2017\Projects\RegularExpressions\MatchPhoneNumber\obj\Debug\MatchPhoneNumber.pdb

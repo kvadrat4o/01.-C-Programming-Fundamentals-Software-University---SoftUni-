@@ -1,0 +1,6 @@
+C:\Users\dvasilev\Documents\SharpDevelop Projects\MethodsAnDebugging\SignOfInt\bin\Debug\SignOfInt.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\MethodsAnDebugging\SignOfInt\bin\Debug\SignOfInt.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\MethodsAnDebugging\SignOfInt\bin\Debug\SignOfInt.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\MethodsAnDebugging\SignOfInt\obj\Debug\SignOfInt.csprojResolveAssemblyReference.cache
+C:\Users\dvasilev\Documents\SharpDevelop Projects\MethodsAnDebugging\SignOfInt\obj\Debug\SignOfInt.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\MethodsAnDebugging\SignOfInt\obj\Debug\SignOfInt.pdb

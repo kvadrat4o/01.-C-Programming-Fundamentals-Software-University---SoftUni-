@@ -1,0 +1,5 @@
+C:\Users\dvasilev\Documents\SharpDevelop Projects\MethodsAnDebugging\MultiplyEvensByOdds\bin\Debug\08.MultiplyEvensByOdds.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\MethodsAnDebugging\MultiplyEvensByOdds\bin\Debug\08.MultiplyEvensByOdds.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\MethodsAnDebugging\MultiplyEvensByOdds\bin\Debug\08.MultiplyEvensByOdds.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\MethodsAnDebugging\MultiplyEvensByOdds\obj\Debug\08.MultiplyEvensByOdds.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\MethodsAnDebugging\MultiplyEvensByOdds\obj\Debug\08.MultiplyEvensByOdds.pdb

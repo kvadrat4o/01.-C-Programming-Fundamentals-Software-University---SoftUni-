@@ -1,0 +1,6 @@
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Arrays\ReverseArray\obj\Debug\02.ReverseArray.csprojResolveAssemblyReference.cache
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Arrays\ReverseArray\bin\Debug\02.ReverseArray.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Arrays\ReverseArray\bin\Debug\02.ReverseArray.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Arrays\ReverseArray\bin\Debug\02.ReverseArray.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Arrays\ReverseArray\obj\Debug\02.ReverseArray.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Arrays\ReverseArray\obj\Debug\02.ReverseArray.pdb

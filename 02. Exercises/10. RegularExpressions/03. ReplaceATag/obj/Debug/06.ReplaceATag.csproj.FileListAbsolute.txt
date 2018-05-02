@@ -1,0 +1,6 @@
+c:\users\dido\documents\visual studio 2017\Projects\RegularExpressions\ReplaceATag\bin\Debug\ReplaceATag.exe.config
+c:\users\dido\documents\visual studio 2017\Projects\RegularExpressions\ReplaceATag\bin\Debug\ReplaceATag.exe
+c:\users\dido\documents\visual studio 2017\Projects\RegularExpressions\ReplaceATag\bin\Debug\ReplaceATag.pdb
+c:\users\dido\documents\visual studio 2017\Projects\RegularExpressions\ReplaceATag\obj\Debug\06.ReplaceATag.csprojResolveAssemblyReference.cache
+c:\users\dido\documents\visual studio 2017\Projects\RegularExpressions\ReplaceATag\obj\Debug\ReplaceATag.exe
+c:\users\dido\documents\visual studio 2017\Projects\RegularExpressions\ReplaceATag\obj\Debug\ReplaceATag.pdb

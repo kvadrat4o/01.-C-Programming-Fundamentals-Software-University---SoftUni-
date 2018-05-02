@@ -1,0 +1,5 @@
+C:\Users\dvasilev\Documents\SharpDevelop Projects\DataTypes-II\Decriptingmessages\bin\Debug\18.Decriptingmessages.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\DataTypes-II\Decriptingmessages\bin\Debug\18.Decriptingmessages.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\DataTypes-II\Decriptingmessages\bin\Debug\18.Decriptingmessages.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\DataTypes-II\Decriptingmessages\obj\Debug\18.Decriptingmessages.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\DataTypes-II\Decriptingmessages\obj\Debug\18.Decriptingmessages.pdb

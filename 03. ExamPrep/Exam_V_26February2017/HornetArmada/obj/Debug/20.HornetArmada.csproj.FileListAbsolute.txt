@@ -1,0 +1,6 @@
+c:\users\dvasilev\documents\visual studio 2013\Projects\ExamPreparation\HornetArmada\bin\Debug\HornetArmada.exe.config
+c:\users\dvasilev\documents\visual studio 2013\Projects\ExamPreparation\HornetArmada\bin\Debug\HornetArmada.exe
+c:\users\dvasilev\documents\visual studio 2013\Projects\ExamPreparation\HornetArmada\bin\Debug\HornetArmada.pdb
+c:\users\dvasilev\documents\visual studio 2013\Projects\ExamPreparation\HornetArmada\obj\Debug\20.HornetArmada.csprojResolveAssemblyReference.cache
+c:\users\dvasilev\documents\visual studio 2013\Projects\ExamPreparation\HornetArmada\obj\Debug\HornetArmada.exe
+c:\users\dvasilev\documents\visual studio 2013\Projects\ExamPreparation\HornetArmada\obj\Debug\HornetArmada.pdb

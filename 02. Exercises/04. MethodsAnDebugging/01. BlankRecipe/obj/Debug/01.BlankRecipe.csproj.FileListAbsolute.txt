@@ -1,0 +1,6 @@
+C:\Users\dvasilev\Documents\SharpDevelop Projects\MethodsAnDebugging\BlankRecipe\obj\Debug\01.BlankRecipe.csprojResolveAssemblyReference.cache
+C:\Users\dvasilev\Documents\SharpDevelop Projects\MethodsAnDebugging\BlankRecipe\bin\Debug\01.BlankRecipe.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\MethodsAnDebugging\BlankRecipe\bin\Debug\01.BlankRecipe.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\MethodsAnDebugging\BlankRecipe\bin\Debug\01.BlankRecipe.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\MethodsAnDebugging\BlankRecipe\obj\Debug\01.BlankRecipe.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\MethodsAnDebugging\BlankRecipe\obj\Debug\01.BlankRecipe.pdb

@@ -1,0 +1,6 @@
+C:\Users\dvasilev\Documents\SharpDevelop Projects\DataTypes-II\TripletsOfLiatinLetters\bin\Debug\02.TripletsOfLiatinLetters.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\DataTypes-II\TripletsOfLiatinLetters\bin\Debug\02.TripletsOfLiatinLetters.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\DataTypes-II\TripletsOfLiatinLetters\bin\Debug\02.TripletsOfLiatinLetters.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\DataTypes-II\TripletsOfLiatinLetters\obj\Debug\02.TripletsOfLiatinLetters.csprojResolveAssemblyReference.cache
+C:\Users\dvasilev\Documents\SharpDevelop Projects\DataTypes-II\TripletsOfLiatinLetters\obj\Debug\02.TripletsOfLiatinLetters.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\DataTypes-II\TripletsOfLiatinLetters\obj\Debug\02.TripletsOfLiatinLetters.pdb

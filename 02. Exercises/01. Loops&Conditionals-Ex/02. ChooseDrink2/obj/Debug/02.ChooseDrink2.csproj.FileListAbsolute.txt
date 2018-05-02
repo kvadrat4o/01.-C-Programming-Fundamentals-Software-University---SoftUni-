@@ -1,0 +1,6 @@
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Loops&Conditionals-Ex\ChooseDrink2\bin\Debug\02.ChooseDrink2.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Loops&Conditionals-Ex\ChooseDrink2\bin\Debug\02.ChooseDrink2.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Loops&Conditionals-Ex\ChooseDrink2\bin\Debug\02.ChooseDrink2.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Loops&Conditionals-Ex\ChooseDrink2\obj\Debug\02.ChooseDrink2.csprojResolveAssemblyReference.cache
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Loops&Conditionals-Ex\ChooseDrink2\obj\Debug\02.ChooseDrink2.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Loops&Conditionals-Ex\ChooseDrink2\obj\Debug\02.ChooseDrink2.pdb

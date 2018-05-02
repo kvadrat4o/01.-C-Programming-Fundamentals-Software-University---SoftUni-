@@ -1,0 +1,6 @@
+c:\users\dido\documents\visual studio 2017\Projects\RegularExpressions\ExtractEmail\bin\Debug\ExtractEmail.exe.config
+c:\users\dido\documents\visual studio 2017\Projects\RegularExpressions\ExtractEmail\bin\Debug\ExtractEmail.exe
+c:\users\dido\documents\visual studio 2017\Projects\RegularExpressions\ExtractEmail\bin\Debug\ExtractEmail.pdb
+c:\users\dido\documents\visual studio 2017\Projects\RegularExpressions\ExtractEmail\obj\Debug\07.ExtractEmail.csprojResolveAssemblyReference.cache
+c:\users\dido\documents\visual studio 2017\Projects\RegularExpressions\ExtractEmail\obj\Debug\ExtractEmail.exe
+c:\users\dido\documents\visual studio 2017\Projects\RegularExpressions\ExtractEmail\obj\Debug\ExtractEmail.pdb

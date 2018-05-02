@@ -1,0 +1,5 @@
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Arrays\LCE\bin\Debug\10.LCE.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Arrays\LCE\bin\Debug\10.LCE.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Arrays\LCE\bin\Debug\10.LCE.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Arrays\LCE\obj\Debug\10.LCE.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Arrays\LCE\obj\Debug\10.LCE.pdb

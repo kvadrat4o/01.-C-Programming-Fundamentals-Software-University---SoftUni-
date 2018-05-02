@@ -1,0 +1,5 @@
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Lists\MaxSeqEqualElements\bin\Debug\08.MaxSeqEqualElements.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Lists\MaxSeqEqualElements\bin\Debug\08.MaxSeqEqualElements.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Lists\MaxSeqEqualElements\bin\Debug\08.MaxSeqEqualElements.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Lists\MaxSeqEqualElements\obj\Debug\08.MaxSeqEqualElements.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Lists\MaxSeqEqualElements\obj\Debug\08.MaxSeqEqualElements.pdb

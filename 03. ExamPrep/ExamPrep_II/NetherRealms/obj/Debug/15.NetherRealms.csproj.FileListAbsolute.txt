@@ -1,0 +1,6 @@
+c:\users\dvasilev\documents\visual studio 2013\Projects\ExamPreparation\NetherRealms\bin\Debug\NetherRealms.exe.config
+c:\users\dvasilev\documents\visual studio 2013\Projects\ExamPreparation\NetherRealms\bin\Debug\NetherRealms.exe
+c:\users\dvasilev\documents\visual studio 2013\Projects\ExamPreparation\NetherRealms\bin\Debug\NetherRealms.pdb
+c:\users\dvasilev\documents\visual studio 2013\Projects\ExamPreparation\NetherRealms\obj\Debug\15.NetherRealms.csprojResolveAssemblyReference.cache
+c:\users\dvasilev\documents\visual studio 2013\Projects\ExamPreparation\NetherRealms\obj\Debug\NetherRealms.exe
+c:\users\dvasilev\documents\visual studio 2013\Projects\ExamPreparation\NetherRealms\obj\Debug\NetherRealms.pdb

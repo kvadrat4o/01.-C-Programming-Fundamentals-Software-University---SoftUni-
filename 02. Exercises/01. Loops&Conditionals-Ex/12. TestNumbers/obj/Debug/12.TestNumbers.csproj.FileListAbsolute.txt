@@ -1,0 +1,5 @@
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Loops&Conditionals-Ex\TesatNumbers\bin\Debug\12.TestNumbers.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Loops&Conditionals-Ex\TesatNumbers\bin\Debug\12.TestNumbers.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Loops&Conditionals-Ex\TesatNumbers\bin\Debug\12.TestNumbers.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Loops&Conditionals-Ex\TesatNumbers\obj\Debug\12.TestNumbers.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Loops&Conditionals-Ex\TesatNumbers\obj\Debug\12.TestNumbers.pdb

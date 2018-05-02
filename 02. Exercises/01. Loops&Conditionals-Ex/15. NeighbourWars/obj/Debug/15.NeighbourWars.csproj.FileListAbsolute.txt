@@ -1,0 +1,5 @@
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Loops&Conditionals-Ex\NeighbourWars\bin\Debug\15.NeighbourWars.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Loops&Conditionals-Ex\NeighbourWars\bin\Debug\15.NeighbourWars.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Loops&Conditionals-Ex\NeighbourWars\bin\Debug\15.NeighbourWars.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Loops&Conditionals-Ex\NeighbourWars\obj\Debug\15.NeighbourWars.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Loops&Conditionals-Ex\NeighbourWars\obj\Debug\15.NeighbourWars.pdb

@@ -1,0 +1,6 @@
+C:\Users\dvasilev\Documents\SharpDevelop Projects\MethodsAnDebugging\Factorial\obj\Debug\23.Factorial.csprojResolveAssemblyReference.cache
+C:\Users\dvasilev\Documents\SharpDevelop Projects\MethodsAnDebugging\Factorial\bin\Debug\23.Factorial.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\MethodsAnDebugging\Factorial\bin\Debug\23.Factorial.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\MethodsAnDebugging\Factorial\bin\Debug\23.Factorial.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\MethodsAnDebugging\Factorial\obj\Debug\23.Factorial.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\MethodsAnDebugging\Factorial\obj\Debug\23.Factorial.pdb

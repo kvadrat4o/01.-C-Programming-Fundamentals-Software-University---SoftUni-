@@ -1,0 +1,6 @@
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Loops&Conditionals-Ex\RestaurantDiscount\bin\Debug\03.RestaurantDiscount.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Loops&Conditionals-Ex\RestaurantDiscount\bin\Debug\03.RestaurantDiscount.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Loops&Conditionals-Ex\RestaurantDiscount\bin\Debug\03.RestaurantDiscount.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Loops&Conditionals-Ex\RestaurantDiscount\obj\Debug\03.RestaurantDiscount.csprojResolveAssemblyReference.cache
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Loops&Conditionals-Ex\RestaurantDiscount\obj\Debug\03.RestaurantDiscount.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Loops&Conditionals-Ex\RestaurantDiscount\obj\Debug\03.RestaurantDiscount.pdb

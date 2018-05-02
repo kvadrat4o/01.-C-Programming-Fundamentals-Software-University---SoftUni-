@@ -1,0 +1,6 @@
+c:\users\dvasilev\documents\visual studio 2013\Projects\ExamPreparation\SweetDesert\bin\Debug\SweetDesert.exe.config
+c:\users\dvasilev\documents\visual studio 2013\Projects\ExamPreparation\SweetDesert\bin\Debug\SweetDesert.exe
+c:\users\dvasilev\documents\visual studio 2013\Projects\ExamPreparation\SweetDesert\bin\Debug\SweetDesert.pdb
+c:\users\dvasilev\documents\visual studio 2013\Projects\ExamPreparation\SweetDesert\obj\Debug\05.SweetDesert.csprojResolveAssemblyReference.cache
+c:\users\dvasilev\documents\visual studio 2013\Projects\ExamPreparation\SweetDesert\obj\Debug\SweetDesert.exe
+c:\users\dvasilev\documents\visual studio 2013\Projects\ExamPreparation\SweetDesert\obj\Debug\SweetDesert.pdb

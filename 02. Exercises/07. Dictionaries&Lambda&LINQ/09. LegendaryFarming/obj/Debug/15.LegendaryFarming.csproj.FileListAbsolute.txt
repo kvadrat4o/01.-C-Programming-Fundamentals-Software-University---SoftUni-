@@ -1,0 +1,10 @@
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Dictionaries&Lambda&LINQ\LegendaryFarming\bin\Debug\15.LegendaryFarming.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Dictionaries&Lambda&LINQ\LegendaryFarming\bin\Debug\15.LegendaryFarming.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Dictionaries&Lambda&LINQ\LegendaryFarming\bin\Debug\15.LegendaryFarming.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Dictionaries&Lambda&LINQ\LegendaryFarming\obj\Debug\15.LegendaryFarming.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Dictionaries&Lambda&LINQ\LegendaryFarming\obj\Debug\15.LegendaryFarming.pdb
+E:\Coding\#DevelopProjects\01.TechnologyFundamentals\1.1 Programing Fundamentals\Dictionaries&Lambda&LINQ\LegendaryFarming\bin\Debug\15.LegendaryFarming.exe.config
+E:\Coding\#DevelopProjects\01.TechnologyFundamentals\1.1 Programing Fundamentals\Dictionaries&Lambda&LINQ\LegendaryFarming\bin\Debug\15.LegendaryFarming.exe
+E:\Coding\#DevelopProjects\01.TechnologyFundamentals\1.1 Programing Fundamentals\Dictionaries&Lambda&LINQ\LegendaryFarming\bin\Debug\15.LegendaryFarming.pdb
+E:\Coding\#DevelopProjects\01.TechnologyFundamentals\1.1 Programing Fundamentals\Dictionaries&Lambda&LINQ\LegendaryFarming\obj\Debug\15.LegendaryFarming.exe
+E:\Coding\#DevelopProjects\01.TechnologyFundamentals\1.1 Programing Fundamentals\Dictionaries&Lambda&LINQ\LegendaryFarming\obj\Debug\15.LegendaryFarming.pdb

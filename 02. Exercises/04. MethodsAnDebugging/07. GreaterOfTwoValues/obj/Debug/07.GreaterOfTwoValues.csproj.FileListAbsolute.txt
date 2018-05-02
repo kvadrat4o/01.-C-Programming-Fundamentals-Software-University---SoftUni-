@@ -1,0 +1,5 @@
+C:\Users\dvasilev\Documents\SharpDevelop Projects\MethodsAnDebugging\GreaterOfTwoValues\bin\Debug\07.GreaterOfTwoValues.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\MethodsAnDebugging\GreaterOfTwoValues\bin\Debug\07.GreaterOfTwoValues.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\MethodsAnDebugging\GreaterOfTwoValues\bin\Debug\07.GreaterOfTwoValues.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\MethodsAnDebugging\GreaterOfTwoValues\obj\Debug\07.GreaterOfTwoValues.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\MethodsAnDebugging\GreaterOfTwoValues\obj\Debug\07.GreaterOfTwoValues.pdb

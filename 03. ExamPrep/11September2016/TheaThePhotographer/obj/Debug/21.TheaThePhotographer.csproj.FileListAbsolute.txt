@@ -1,0 +1,6 @@
+c:\users\dvasilev\documents\visual studio 2013\Projects\ExamPreparation\TheaThePhotographer\bin\Debug\TheaThePhotographer.exe.config
+c:\users\dvasilev\documents\visual studio 2013\Projects\ExamPreparation\TheaThePhotographer\bin\Debug\TheaThePhotographer.exe
+c:\users\dvasilev\documents\visual studio 2013\Projects\ExamPreparation\TheaThePhotographer\bin\Debug\TheaThePhotographer.pdb
+c:\users\dvasilev\documents\visual studio 2013\Projects\ExamPreparation\TheaThePhotographer\obj\Debug\21.TheaThePhotographer.csprojResolveAssemblyReference.cache
+c:\users\dvasilev\documents\visual studio 2013\Projects\ExamPreparation\TheaThePhotographer\obj\Debug\TheaThePhotographer.exe
+c:\users\dvasilev\documents\visual studio 2013\Projects\ExamPreparation\TheaThePhotographer\obj\Debug\TheaThePhotographer.pdb

@@ -1,0 +1,5 @@
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Arrays\MaxIncreasing\bin\Debug\16.MaxIncreasing.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Arrays\MaxIncreasing\bin\Debug\16.MaxIncreasing.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Arrays\MaxIncreasing\bin\Debug\16.MaxIncreasing.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Arrays\MaxIncreasing\obj\Debug\16.MaxIncreasing.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Arrays\MaxIncreasing\obj\Debug\16.MaxIncreasing.pdb

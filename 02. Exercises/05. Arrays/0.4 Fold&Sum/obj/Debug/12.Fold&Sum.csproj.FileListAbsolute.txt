@@ -1,0 +1,6 @@
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Arrays\Fold&Sum\bin\Debug\12.Fold&Sum.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Arrays\Fold&Sum\bin\Debug\12.Fold&Sum.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Arrays\Fold&Sum\bin\Debug\12.Fold&Sum.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Arrays\Fold&Sum\obj\Debug\12.Fold&Sum.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Arrays\Fold&Sum\obj\Debug\12.Fold&Sum.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Arrays\Fold&Sum\obj\Debug\12.Fold&Sum.csprojResolveAssemblyReference.cache

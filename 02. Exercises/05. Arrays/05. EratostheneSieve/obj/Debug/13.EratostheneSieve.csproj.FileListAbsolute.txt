@@ -1,0 +1,5 @@
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Arrays\EratostheneSieve\bin\Debug\13.EratostheneSieve.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Arrays\EratostheneSieve\bin\Debug\13.EratostheneSieve.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Arrays\EratostheneSieve\bin\Debug\13.EratostheneSieve.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Arrays\EratostheneSieve\obj\Debug\13.EratostheneSieve.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Arrays\EratostheneSieve\obj\Debug\13.EratostheneSieve.pdb

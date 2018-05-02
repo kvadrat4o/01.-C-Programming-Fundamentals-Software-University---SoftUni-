@@ -1,0 +1,5 @@
+C:\Users\dvasilev\Documents\SharpDevelop Projects\MethodsAnDebugging\PriceChangeAlert\bin\Debug\10.PriceChangeAlert.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\MethodsAnDebugging\PriceChangeAlert\bin\Debug\10.PriceChangeAlert.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\MethodsAnDebugging\PriceChangeAlert\bin\Debug\10.PriceChangeAlert.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\MethodsAnDebugging\PriceChangeAlert\obj\Debug\10.PriceChangeAlert.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\MethodsAnDebugging\PriceChangeAlert\obj\Debug\10.PriceChangeAlert.pdb

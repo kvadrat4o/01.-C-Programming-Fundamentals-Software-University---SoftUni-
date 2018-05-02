@@ -1,0 +1,5 @@
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Arrays\UpgradedMatcher\bin\Debug\27.UpgradedMatcher.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Arrays\UpgradedMatcher\bin\Debug\27.UpgradedMatcher.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Arrays\UpgradedMatcher\bin\Debug\27.UpgradedMatcher.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Arrays\UpgradedMatcher\obj\Debug\27.UpgradedMatcher.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Arrays\UpgradedMatcher\obj\Debug\27.UpgradedMatcher.pdb

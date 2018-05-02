@@ -1,0 +1,6 @@
+C:\Users\dvasilev\Documents\SharpDevelop Projects\DataTypesAndVariables\ExchangeVariableValues\bin\Debug\03.ExchangeVariableValues.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\DataTypesAndVariables\ExchangeVariableValues\bin\Debug\03.ExchangeVariableValues.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\DataTypesAndVariables\ExchangeVariableValues\bin\Debug\03.ExchangeVariableValues.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\DataTypesAndVariables\ExchangeVariableValues\obj\Debug\03.ExchangeVariableValues.csprojResolveAssemblyReference.cache
+C:\Users\dvasilev\Documents\SharpDevelop Projects\DataTypesAndVariables\ExchangeVariableValues\obj\Debug\03.ExchangeVariableValues.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\DataTypesAndVariables\ExchangeVariableValues\obj\Debug\03.ExchangeVariableValues.pdb

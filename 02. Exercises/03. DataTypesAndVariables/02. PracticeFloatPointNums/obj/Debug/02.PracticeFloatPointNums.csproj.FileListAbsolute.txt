@@ -1,0 +1,6 @@
+C:\Users\dvasilev\Documents\SharpDevelop Projects\DataTypesAndVariables\PracticeFloatPointNums\bin\Debug\02.PracticeFloatPointNums.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\DataTypesAndVariables\PracticeFloatPointNums\bin\Debug\02.PracticeFloatPointNums.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\DataTypesAndVariables\PracticeFloatPointNums\bin\Debug\02.PracticeFloatPointNums.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\DataTypesAndVariables\PracticeFloatPointNums\obj\Debug\02.PracticeFloatPointNums.csprojResolveAssemblyReference.cache
+C:\Users\dvasilev\Documents\SharpDevelop Projects\DataTypesAndVariables\PracticeFloatPointNums\obj\Debug\02.PracticeFloatPointNums.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\DataTypesAndVariables\PracticeFloatPointNums\obj\Debug\02.PracticeFloatPointNums.pdb

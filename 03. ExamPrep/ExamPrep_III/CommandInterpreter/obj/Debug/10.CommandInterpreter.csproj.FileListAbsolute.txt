@@ -1,0 +1,6 @@
+c:\users\dvasilev\documents\visual studio 2013\Projects\ExamPreparation\CommandInterpreter\bin\Debug\CommandInterpreter.exe.config
+c:\users\dvasilev\documents\visual studio 2013\Projects\ExamPreparation\CommandInterpreter\bin\Debug\CommandInterpreter.exe
+c:\users\dvasilev\documents\visual studio 2013\Projects\ExamPreparation\CommandInterpreter\bin\Debug\CommandInterpreter.pdb
+c:\users\dvasilev\documents\visual studio 2013\Projects\ExamPreparation\CommandInterpreter\obj\Debug\10.CommandInterpreter.csprojResolveAssemblyReference.cache
+c:\users\dvasilev\documents\visual studio 2013\Projects\ExamPreparation\CommandInterpreter\obj\Debug\CommandInterpreter.exe
+c:\users\dvasilev\documents\visual studio 2013\Projects\ExamPreparation\CommandInterpreter\obj\Debug\CommandInterpreter.pdb

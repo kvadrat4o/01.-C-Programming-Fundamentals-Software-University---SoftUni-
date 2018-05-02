@@ -1,0 +1,6 @@
+C:\Users\dvasilev\Documents\SharpDevelop Projects\DataTypesAndVariables\FloatOrInteger\bin\Debug\04.FloatOrInteger.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\DataTypesAndVariables\FloatOrInteger\bin\Debug\04.FloatOrInteger.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\DataTypesAndVariables\FloatOrInteger\bin\Debug\04.FloatOrInteger.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\DataTypesAndVariables\FloatOrInteger\obj\Debug\04.FloatOrInteger.csprojResolveAssemblyReference.cache
+C:\Users\dvasilev\Documents\SharpDevelop Projects\DataTypesAndVariables\FloatOrInteger\obj\Debug\04.FloatOrInteger.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\DataTypesAndVariables\FloatOrInteger\obj\Debug\04.FloatOrInteger.pdb

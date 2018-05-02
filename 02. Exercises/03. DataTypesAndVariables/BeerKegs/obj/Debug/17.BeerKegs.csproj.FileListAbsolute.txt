@@ -1,0 +1,6 @@
+C:\Users\dvasilev\Documents\SharpDevelop Projects\DataTypes-II\BeerKegs\bin\Debug\17.BeerKegs.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\DataTypes-II\BeerKegs\bin\Debug\17.BeerKegs.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\DataTypes-II\BeerKegs\bin\Debug\17.BeerKegs.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\DataTypes-II\BeerKegs\obj\Debug\17.BeerKegs.csprojResolveAssemblyReference.cache
+C:\Users\dvasilev\Documents\SharpDevelop Projects\DataTypes-II\BeerKegs\obj\Debug\17.BeerKegs.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\DataTypes-II\BeerKegs\obj\Debug\17.BeerKegs.pdb

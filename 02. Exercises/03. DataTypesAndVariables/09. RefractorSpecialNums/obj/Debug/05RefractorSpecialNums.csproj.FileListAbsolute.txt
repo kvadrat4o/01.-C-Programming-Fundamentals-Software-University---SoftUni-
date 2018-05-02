@@ -1,0 +1,5 @@
+C:\Users\dvasilev\Documents\SharpDevelop Projects\DataTypes-II\RefractorSpecialNums\bin\Debug\05RefractorSpecialNums.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\DataTypes-II\RefractorSpecialNums\bin\Debug\05RefractorSpecialNums.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\DataTypes-II\RefractorSpecialNums\bin\Debug\05RefractorSpecialNums.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\DataTypes-II\RefractorSpecialNums\obj\Debug\05RefractorSpecialNums.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\DataTypes-II\RefractorSpecialNums\obj\Debug\05RefractorSpecialNums.pdb

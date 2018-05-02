@@ -1,0 +1,5 @@
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Arrays\ArrManipulator\bin\Debug\21.ArrManipulator.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Arrays\ArrManipulator\bin\Debug\21.ArrManipulator.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Arrays\ArrManipulator\bin\Debug\21.ArrManipulator.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Arrays\ArrManipulator\obj\Debug\21.ArrManipulator.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Arrays\ArrManipulator\obj\Debug\21.ArrManipulator.pdb

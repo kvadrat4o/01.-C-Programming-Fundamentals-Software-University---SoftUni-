@@ -1,0 +1,6 @@
+E:\Coding\VSProjects\01.TechnologyFundamentals\1.1 Programing Fundamentals\11. ExamPreparation\СУВатерСупплиес\obj\Debug\24.SUWaterSupplies.csprojResolveAssemblyReference.cache
+E:\Coding\VSProjects\01.TechnologyFundamentals\1.1 Programing Fundamentals\11. ExamPreparation\СУВатерСупплиес\bin\Debug\СУВатерСупплиес.exe.config
+E:\Coding\VSProjects\01.TechnologyFundamentals\1.1 Programing Fundamentals\11. ExamPreparation\СУВатерСупплиес\bin\Debug\СУВатерСупплиес.exe
+E:\Coding\VSProjects\01.TechnologyFundamentals\1.1 Programing Fundamentals\11. ExamPreparation\СУВатерСупплиес\bin\Debug\СУВатерСупплиес.pdb
+E:\Coding\VSProjects\01.TechnologyFundamentals\1.1 Programing Fundamentals\11. ExamPreparation\СУВатерСупплиес\obj\Debug\СУВатерСупплиес.exe
+E:\Coding\VSProjects\01.TechnologyFundamentals\1.1 Programing Fundamentals\11. ExamPreparation\СУВатерСупплиес\obj\Debug\СУВатерСупплиес.pdb

@@ -1,0 +1,1 @@
+C:\Users\dvasilev\Documents\Visual Studio 2013\Projects\StringAndTextProcessing\SumBigNumbers\bin\Debug\SumBigNumbers.exe.config

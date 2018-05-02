@@ -1,0 +1,10 @@
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Dictionaries&Lambda&LINQ\SrubskoUnleashed\bin\Debug\16.SrubskoUnleashed.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Dictionaries&Lambda&LINQ\SrubskoUnleashed\bin\Debug\16.SrubskoUnleashed.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Dictionaries&Lambda&LINQ\SrubskoUnleashed\bin\Debug\16.SrubskoUnleashed.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Dictionaries&Lambda&LINQ\SrubskoUnleashed\obj\Debug\16.SrubskoUnleashed.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Dictionaries&Lambda&LINQ\SrubskoUnleashed\obj\Debug\16.SrubskoUnleashed.pdb
+E:\Coding\#DevelopProjects\01.TechnologyFundamentals\1.1 Programing Fundamentals\Dictionaries&Lambda&LINQ\SrubskoUnleashed\bin\Debug\16.SrubskoUnleashed.exe.config
+E:\Coding\#DevelopProjects\01.TechnologyFundamentals\1.1 Programing Fundamentals\Dictionaries&Lambda&LINQ\SrubskoUnleashed\bin\Debug\16.SrubskoUnleashed.exe
+E:\Coding\#DevelopProjects\01.TechnologyFundamentals\1.1 Programing Fundamentals\Dictionaries&Lambda&LINQ\SrubskoUnleashed\bin\Debug\16.SrubskoUnleashed.pdb
+E:\Coding\#DevelopProjects\01.TechnologyFundamentals\1.1 Programing Fundamentals\Dictionaries&Lambda&LINQ\SrubskoUnleashed\obj\Debug\16.SrubskoUnleashed.exe
+E:\Coding\#DevelopProjects\01.TechnologyFundamentals\1.1 Programing Fundamentals\Dictionaries&Lambda&LINQ\SrubskoUnleashed\obj\Debug\16.SrubskoUnleashed.pdb

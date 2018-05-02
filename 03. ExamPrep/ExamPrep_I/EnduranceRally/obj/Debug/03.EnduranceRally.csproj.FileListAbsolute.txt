@@ -1,0 +1,6 @@
+c:\users\dvasilev\documents\visual studio 2013\Projects\ExamPreparation\EnduranceRally\bin\Debug\EnduranceRally.exe.config
+c:\users\dvasilev\documents\visual studio 2013\Projects\ExamPreparation\EnduranceRally\bin\Debug\EnduranceRally.exe
+c:\users\dvasilev\documents\visual studio 2013\Projects\ExamPreparation\EnduranceRally\bin\Debug\EnduranceRally.pdb
+c:\users\dvasilev\documents\visual studio 2013\Projects\ExamPreparation\EnduranceRally\obj\Debug\03.EnduranceRally.csprojResolveAssemblyReference.cache
+c:\users\dvasilev\documents\visual studio 2013\Projects\ExamPreparation\EnduranceRally\obj\Debug\EnduranceRally.exe
+c:\users\dvasilev\documents\visual studio 2013\Projects\ExamPreparation\EnduranceRally\obj\Debug\EnduranceRally.pdb

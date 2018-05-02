@@ -1,0 +1,6 @@
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Loops&Conditionals-Ex\Hotel\bin\Debug\04.Hotel.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Loops&Conditionals-Ex\Hotel\bin\Debug\04.Hotel.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Loops&Conditionals-Ex\Hotel\bin\Debug\04.Hotel.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Loops&Conditionals-Ex\Hotel\obj\Debug\04.Hotel.csprojResolveAssemblyReference.cache
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Loops&Conditionals-Ex\Hotel\obj\Debug\04.Hotel.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Loops&Conditionals-Ex\Hotel\obj\Debug\04.Hotel.pdb

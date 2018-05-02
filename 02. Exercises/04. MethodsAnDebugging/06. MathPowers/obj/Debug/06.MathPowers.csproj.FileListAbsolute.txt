@@ -1,0 +1,5 @@
+C:\Users\dvasilev\Documents\SharpDevelop Projects\MethodsAnDebugging\MathPowers\bin\Debug\06.MathPowers.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\MethodsAnDebugging\MathPowers\bin\Debug\06.MathPowers.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\MethodsAnDebugging\MathPowers\bin\Debug\06.MathPowers.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\MethodsAnDebugging\MathPowers\obj\Debug\06.MathPowers.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\MethodsAnDebugging\MathPowers\obj\Debug\06.MathPowers.pdb

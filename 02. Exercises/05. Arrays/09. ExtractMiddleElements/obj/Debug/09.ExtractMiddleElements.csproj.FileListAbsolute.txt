@@ -1,0 +1,5 @@
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Arrays\ExtractMiddleElements\bin\Debug\09.ExtractMiddleElements.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Arrays\ExtractMiddleElements\bin\Debug\09.ExtractMiddleElements.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Arrays\ExtractMiddleElements\bin\Debug\09.ExtractMiddleElements.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Arrays\ExtractMiddleElements\obj\Debug\09.ExtractMiddleElements.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Arrays\ExtractMiddleElements\obj\Debug\09.ExtractMiddleElements.pdb

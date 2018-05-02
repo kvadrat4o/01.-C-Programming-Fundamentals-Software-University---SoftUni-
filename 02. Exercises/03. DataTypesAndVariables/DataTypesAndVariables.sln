@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 5.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.PracticeIntNums", "DataTypesAndVariables\01.PracticeIntNums.csproj", "{FAA9C007-AF0A-4350-A324-F7B1AC0FA3FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.PracticeFloatPointNums", "PracticeFloatPointNums\02.PracticeFloatPointNums.csproj", "{58DC5B8F-D29F-458C-9A72-F17184A917F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.ExchangeVariableValues", "ExchangeVariableValues\03.ExchangeVariableValues.csproj", "{A02E0B34-D7D0-4169-ADF7-C0A978F140D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.FloatOrInteger", "FloatOrInteger\04.FloatOrInteger.csproj", "{0CB5B097-84B7-4A6A-83B7-C6B1B7A6C854}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.DistanceOfTheStars", "DistanceOfTheStars\05.DistanceOfTheStars.csproj", "{A97EBF4E-DF2E-4705-898F-0B1BD1841486}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.IncrementVariable", "IncrementVariable\06.IncrementVariable.csproj", "{37DB180D-8525-42A3-B540-4AE9637124D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.TeraBTtoBits", "TeraBTtoBits\07.TeraBTtoBits.csproj", "{1E8F6DC3-7AA1-44B5-8BF4-3E5B4B4CEF97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAA9C007-AF0A-4350-A324-F7B1AC0FA3FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAA9C007-AF0A-4350-A324-F7B1AC0FA3FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAA9C007-AF0A-4350-A324-F7B1AC0FA3FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAA9C007-AF0A-4350-A324-F7B1AC0FA3FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58DC5B8F-D29F-458C-9A72-F17184A917F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58DC5B8F-D29F-458C-9A72-F17184A917F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58DC5B8F-D29F-458C-9A72-F17184A917F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58DC5B8F-D29F-458C-9A72-F17184A917F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A02E0B34-D7D0-4169-ADF7-C0A978F140D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A02E0B34-D7D0-4169-ADF7-C0A978F140D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A02E0B34-D7D0-4169-ADF7-C0A978F140D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A02E0B34-D7D0-4169-ADF7-C0A978F140D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CB5B097-84B7-4A6A-83B7-C6B1B7A6C854}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CB5B097-84B7-4A6A-83B7-C6B1B7A6C854}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CB5B097-84B7-4A6A-83B7-C6B1B7A6C854}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CB5B097-84B7-4A6A-83B7-C6B1B7A6C854}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A97EBF4E-DF2E-4705-898F-0B1BD1841486}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A97EBF4E-DF2E-4705-898F-0B1BD1841486}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A97EBF4E-DF2E-4705-898F-0B1BD1841486}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A97EBF4E-DF2E-4705-898F-0B1BD1841486}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37DB180D-8525-42A3-B540-4AE9637124D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37DB180D-8525-42A3-B540-4AE9637124D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37DB180D-8525-42A3-B540-4AE9637124D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37DB180D-8525-42A3-B540-4AE9637124D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E8F6DC3-7AA1-44B5-8BF4-3E5B4B4CEF97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E8F6DC3-7AA1-44B5-8BF4-3E5B4B4CEF97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E8F6DC3-7AA1-44B5-8BF4-3E5B4B4CEF97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E8F6DC3-7AA1-44B5-8BF4-3E5B4B4CEF97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

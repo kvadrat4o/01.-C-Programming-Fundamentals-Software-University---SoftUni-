@@ -1,0 +1,6 @@
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Lists\SplitByWord\bin\Debug\04.SplitByWord.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Lists\SplitByWord\bin\Debug\04.SplitByWord.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Lists\SplitByWord\bin\Debug\04.SplitByWord.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Lists\SplitByWord\obj\Debug\04.SplitByWord.csprojResolveAssemblyReference.cache
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Lists\SplitByWord\obj\Debug\04.SplitByWord.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Lists\SplitByWord\obj\Debug\04.SplitByWord.pdb

@@ -1,0 +1,6 @@
+c:\users\dvasilev\documents\visual studio 2013\Projects\ExamPreparation\WinningTicket\bin\Debug\WinningTicket.exe.config
+c:\users\dvasilev\documents\visual studio 2013\Projects\ExamPreparation\WinningTicket\bin\Debug\WinningTicket.exe
+c:\users\dvasilev\documents\visual studio 2013\Projects\ExamPreparation\WinningTicket\bin\Debug\WinningTicket.pdb
+c:\users\dvasilev\documents\visual studio 2013\Projects\ExamPreparation\WinningTicket\obj\Debug\04.WinningTicket.csprojResolveAssemblyReference.cache
+c:\users\dvasilev\documents\visual studio 2013\Projects\ExamPreparation\WinningTicket\obj\Debug\WinningTicket.exe
+c:\users\dvasilev\documents\visual studio 2013\Projects\ExamPreparation\WinningTicket\obj\Debug\WinningTicket.pdb

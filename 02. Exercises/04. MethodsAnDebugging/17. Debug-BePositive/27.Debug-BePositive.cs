@@ -1,0 +1,74 @@
+﻿/*
+ * Created by SharpDevelop.
+ * User: DVasilev
+ * Date: 2017/05/24
+ * Time: 9:55 AM
+ * 
+ * To change this template use Tools | Options | Coding | Edit Standard Headers.
+ */
+using System;
+
+namespace Debug_BePositive
+{
+	class Program
+	{
+		public static void Main()
+	{
+		int countSequences = int.Parse(Console.ReadLine());
+			for (int i = 0; i < countSequences; i++)
+			{
+				string[] input = Console.ReadLine().Trim().Split(' ');
+				var numbers = new List<int>();
+	
+				for (int j = 0; j < input.Length; j++)
+				{
+					if (!input[j].Equals(string.Empty))
+					{
+						int num = int.Parse(input[i]);
+						numbers.Add(num);
+					}
+				}
+	
+				bool found = false;
+	
+				for (int j = 0; j < numbers.Count; j++)
+				{
+					int currentNum = numbers[j];
+	
+					if (currentNum > 0)
+					{
+						if (found)
+							{
+								Console.Write(" ");
+							}
+	
+							Console.Write(currentNum);
+	
+							found = true;
+					}
+					else
+					{
+						currentNum += numbers[j + 1];
+	
+						if (currentNum > 0)
+						{
+							if (found)
+							{
+								Console.Write(" ");
+							}
+	
+							Console.Write(currentNum);
+	
+							found = true;
+						}
+					}
+				}
+	
+				if (!found)
+				{
+					Console.WriteLine("(empty)");
+				}
+			}
+		}
+	}
+}

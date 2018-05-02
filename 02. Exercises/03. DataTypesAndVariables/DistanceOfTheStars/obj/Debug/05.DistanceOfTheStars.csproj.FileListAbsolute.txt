@@ -1,0 +1,5 @@
+C:\Users\dvasilev\Documents\SharpDevelop Projects\DataTypesAndVariables\DistanceOfTheStars\bin\Debug\05.DistanceOfTheStars.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\DataTypesAndVariables\DistanceOfTheStars\bin\Debug\05.DistanceOfTheStars.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\DataTypesAndVariables\DistanceOfTheStars\bin\Debug\05.DistanceOfTheStars.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\DataTypesAndVariables\DistanceOfTheStars\obj\Debug\05.DistanceOfTheStars.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\DataTypesAndVariables\DistanceOfTheStars\obj\Debug\05.DistanceOfTheStars.pdb

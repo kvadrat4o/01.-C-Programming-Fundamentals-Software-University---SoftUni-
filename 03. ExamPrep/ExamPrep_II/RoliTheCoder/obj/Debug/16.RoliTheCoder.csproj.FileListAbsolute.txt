@@ -1,0 +1,6 @@
+c:\users\dvasilev\documents\visual studio 2013\Projects\ExamPreparation\RoliTheCoder\bin\Debug\RoliTheCoder.exe.config
+c:\users\dvasilev\documents\visual studio 2013\Projects\ExamPreparation\RoliTheCoder\bin\Debug\RoliTheCoder.exe
+c:\users\dvasilev\documents\visual studio 2013\Projects\ExamPreparation\RoliTheCoder\bin\Debug\RoliTheCoder.pdb
+c:\users\dvasilev\documents\visual studio 2013\Projects\ExamPreparation\RoliTheCoder\obj\Debug\16.RoliTheCoder.csprojResolveAssemblyReference.cache
+c:\users\dvasilev\documents\visual studio 2013\Projects\ExamPreparation\RoliTheCoder\obj\Debug\RoliTheCoder.exe
+c:\users\dvasilev\documents\visual studio 2013\Projects\ExamPreparation\RoliTheCoder\obj\Debug\RoliTheCoder.pdb

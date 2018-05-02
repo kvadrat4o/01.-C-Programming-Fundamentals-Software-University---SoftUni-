@@ -1,0 +1,6 @@
+c:\users\dvasilev\documents\visual studio 2013\Projects\ExamPreparation\SinoTheWalker\bin\Debug\SinoTheWalker.exe.config
+c:\users\dvasilev\documents\visual studio 2013\Projects\ExamPreparation\SinoTheWalker\bin\Debug\SinoTheWalker.exe
+c:\users\dvasilev\documents\visual studio 2013\Projects\ExamPreparation\SinoTheWalker\bin\Debug\SinoTheWalker.pdb
+c:\users\dvasilev\documents\visual studio 2013\Projects\ExamPreparation\SinoTheWalker\obj\Debug\01.SinoTheWalker.csprojResolveAssemblyReference.cache
+c:\users\dvasilev\documents\visual studio 2013\Projects\ExamPreparation\SinoTheWalker\obj\Debug\SinoTheWalker.exe
+c:\users\dvasilev\documents\visual studio 2013\Projects\ExamPreparation\SinoTheWalker\obj\Debug\SinoTheWalker.pdb

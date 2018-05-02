@@ -1,0 +1,5 @@
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Loops&Conditionals-Ex\CaloriesCounter\bin\Debug\08.CaloriesCounter.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Loops&Conditionals-Ex\CaloriesCounter\bin\Debug\08.CaloriesCounter.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Loops&Conditionals-Ex\CaloriesCounter\bin\Debug\08.CaloriesCounter.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Loops&Conditionals-Ex\CaloriesCounter\obj\Debug\08.CaloriesCounter.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Loops&Conditionals-Ex\CaloriesCounter\obj\Debug\08.CaloriesCounter.pdb

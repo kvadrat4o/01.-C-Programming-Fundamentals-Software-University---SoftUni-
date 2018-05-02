@@ -1,0 +1,6 @@
+C:\Users\dvasilev\Documents\SharpDevelop Projects\DataTypes-II\DataTypes-II\bin\Debug\01.SpecialNums.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\DataTypes-II\DataTypes-II\bin\Debug\01.SpecialNums.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\DataTypes-II\DataTypes-II\bin\Debug\01.SpecialNums.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\DataTypes-II\DataTypes-II\obj\Debug\01.SpecialNums.csprojResolveAssemblyReference.cache
+C:\Users\dvasilev\Documents\SharpDevelop Projects\DataTypes-II\DataTypes-II\obj\Debug\01.SpecialNums.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\DataTypes-II\DataTypes-II\obj\Debug\01.SpecialNums.pdb

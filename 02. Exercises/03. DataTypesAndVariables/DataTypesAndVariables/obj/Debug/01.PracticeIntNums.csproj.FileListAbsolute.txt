@@ -1,0 +1,6 @@
+C:\Users\dvasilev\Documents\SharpDevelop Projects\DataTypesAndVariables\DataTypesAndVariables\bin\Debug\01.PracticeIntNums.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\DataTypesAndVariables\DataTypesAndVariables\bin\Debug\01.PracticeIntNums.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\DataTypesAndVariables\DataTypesAndVariables\bin\Debug\01.PracticeIntNums.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\DataTypesAndVariables\DataTypesAndVariables\obj\Debug\01.PracticeIntNums.csprojResolveAssemblyReference.cache
+C:\Users\dvasilev\Documents\SharpDevelop Projects\DataTypesAndVariables\DataTypesAndVariables\obj\Debug\01.PracticeIntNums.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\DataTypesAndVariables\DataTypesAndVariables\obj\Debug\01.PracticeIntNums.pdb

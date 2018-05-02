@@ -1,0 +1,10 @@
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Dictionaries&Lambda&LINQ\PhonebookUpgraded\bin\Debug\08.PhonebookUpgraded.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Dictionaries&Lambda&LINQ\PhonebookUpgraded\bin\Debug\08.PhonebookUpgraded.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Dictionaries&Lambda&LINQ\PhonebookUpgraded\bin\Debug\08.PhonebookUpgraded.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Dictionaries&Lambda&LINQ\PhonebookUpgraded\obj\Debug\08.PhonebookUpgraded.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Dictionaries&Lambda&LINQ\PhonebookUpgraded\obj\Debug\08.PhonebookUpgraded.pdb
+E:\Coding\#DevelopProjects\01.TechnologyFundamentals\1.1 Programing Fundamentals\Dictionaries&Lambda&LINQ\PhonebookUpgraded\bin\Debug\08.PhonebookUpgraded.exe.config
+E:\Coding\#DevelopProjects\01.TechnologyFundamentals\1.1 Programing Fundamentals\Dictionaries&Lambda&LINQ\PhonebookUpgraded\bin\Debug\08.PhonebookUpgraded.exe
+E:\Coding\#DevelopProjects\01.TechnologyFundamentals\1.1 Programing Fundamentals\Dictionaries&Lambda&LINQ\PhonebookUpgraded\bin\Debug\08.PhonebookUpgraded.pdb
+E:\Coding\#DevelopProjects\01.TechnologyFundamentals\1.1 Programing Fundamentals\Dictionaries&Lambda&LINQ\PhonebookUpgraded\obj\Debug\08.PhonebookUpgraded.exe
+E:\Coding\#DevelopProjects\01.TechnologyFundamentals\1.1 Programing Fundamentals\Dictionaries&Lambda&LINQ\PhonebookUpgraded\obj\Debug\08.PhonebookUpgraded.pdb

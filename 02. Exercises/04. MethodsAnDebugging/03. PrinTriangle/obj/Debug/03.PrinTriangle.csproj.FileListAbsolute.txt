@@ -1,0 +1,6 @@
+C:\Users\dvasilev\Documents\SharpDevelop Projects\MethodsAnDebugging\PrinTriangle\obj\Debug\03.PrinTriangle.csprojResolveAssemblyReference.cache
+C:\Users\dvasilev\Documents\SharpDevelop Projects\MethodsAnDebugging\PrinTriangle\bin\Debug\03.PrinTriangle.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\MethodsAnDebugging\PrinTriangle\bin\Debug\03.PrinTriangle.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\MethodsAnDebugging\PrinTriangle\bin\Debug\03.PrinTriangle.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\MethodsAnDebugging\PrinTriangle\obj\Debug\03.PrinTriangle.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\MethodsAnDebugging\PrinTriangle\obj\Debug\03.PrinTriangle.pdb

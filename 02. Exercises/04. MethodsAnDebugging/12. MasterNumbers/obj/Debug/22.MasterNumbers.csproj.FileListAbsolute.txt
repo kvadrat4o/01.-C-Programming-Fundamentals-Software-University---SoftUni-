@@ -1,0 +1,5 @@
+C:\Users\dvasilev\Documents\SharpDevelop Projects\MethodsAnDebugging\MasterNumbers\bin\Debug\22.MasterNumbers.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\MethodsAnDebugging\MasterNumbers\bin\Debug\22.MasterNumbers.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\MethodsAnDebugging\MasterNumbers\bin\Debug\22.MasterNumbers.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\MethodsAnDebugging\MasterNumbers\obj\Debug\22.MasterNumbers.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\MethodsAnDebugging\MasterNumbers\obj\Debug\22.MasterNumbers.pdb

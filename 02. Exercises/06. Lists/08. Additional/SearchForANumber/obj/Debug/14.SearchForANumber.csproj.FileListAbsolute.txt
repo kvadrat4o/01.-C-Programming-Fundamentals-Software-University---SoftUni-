@@ -1,0 +1,5 @@
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Lists\SearchForANumber\bin\Debug\14.SearchForANumber.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Lists\SearchForANumber\bin\Debug\14.SearchForANumber.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Lists\SearchForANumber\bin\Debug\14.SearchForANumber.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Lists\SearchForANumber\obj\Debug\14.SearchForANumber.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Lists\SearchForANumber\obj\Debug\14.SearchForANumber.pdb

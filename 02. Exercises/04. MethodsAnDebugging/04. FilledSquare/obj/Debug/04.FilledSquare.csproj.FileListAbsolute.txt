@@ -1,0 +1,6 @@
+C:\Users\dvasilev\Documents\SharpDevelop Projects\MethodsAnDebugging\FilledSquare\obj\Debug\04.FilledSquare.csprojResolveAssemblyReference.cache
+C:\Users\dvasilev\Documents\SharpDevelop Projects\MethodsAnDebugging\FilledSquare\bin\Debug\04.FilledSquare.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\MethodsAnDebugging\FilledSquare\bin\Debug\04.FilledSquare.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\MethodsAnDebugging\FilledSquare\bin\Debug\04.FilledSquare.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\MethodsAnDebugging\FilledSquare\obj\Debug\04.FilledSquare.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\MethodsAnDebugging\FilledSquare\obj\Debug\04.FilledSquare.pdb

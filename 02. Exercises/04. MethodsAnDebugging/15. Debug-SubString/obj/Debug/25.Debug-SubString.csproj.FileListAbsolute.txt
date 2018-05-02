@@ -1,0 +1,5 @@
+C:\Users\dvasilev\Documents\SharpDevelop Projects\MethodsAnDebugging\Debug-SubString\bin\Debug\25.Debug-SubString.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\MethodsAnDebugging\Debug-SubString\bin\Debug\25.Debug-SubString.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\MethodsAnDebugging\Debug-SubString\bin\Debug\25.Debug-SubString.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\MethodsAnDebugging\Debug-SubString\obj\Debug\25.Debug-SubString.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\MethodsAnDebugging\Debug-SubString\obj\Debug\25.Debug-SubString.pdb

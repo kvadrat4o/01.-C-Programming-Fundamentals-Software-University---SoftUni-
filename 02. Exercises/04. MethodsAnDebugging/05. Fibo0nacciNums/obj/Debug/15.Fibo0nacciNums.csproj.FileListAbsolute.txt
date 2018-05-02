@@ -1,0 +1,5 @@
+C:\Users\dvasilev\Documents\SharpDevelop Projects\MethodsAnDebugging\Fibo0nacciNums\bin\Debug\15.Fibo0nacciNums.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\MethodsAnDebugging\Fibo0nacciNums\bin\Debug\15.Fibo0nacciNums.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\MethodsAnDebugging\Fibo0nacciNums\bin\Debug\15.Fibo0nacciNums.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\MethodsAnDebugging\Fibo0nacciNums\obj\Debug\15.Fibo0nacciNums.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\MethodsAnDebugging\Fibo0nacciNums\obj\Debug\15.Fibo0nacciNums.pdb

@@ -1,0 +1,6 @@
+C:\Users\dvasilev\Documents\SharpDevelop Projects\MethodsAnDebugging\HolidaysBetweenTwoDates\bin\Debug\09.HolidaysBetweenTwoDates.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\MethodsAnDebugging\HolidaysBetweenTwoDates\bin\Debug\09.HolidaysBetweenTwoDates.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\MethodsAnDebugging\HolidaysBetweenTwoDates\bin\Debug\09.HolidaysBetweenTwoDates.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\MethodsAnDebugging\HolidaysBetweenTwoDates\obj\Debug\09.HolidaysBetweenTwoDates.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\MethodsAnDebugging\HolidaysBetweenTwoDates\obj\Debug\09.HolidaysBetweenTwoDates.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\MethodsAnDebugging\HolidaysBetweenTwoDates\obj\Debug\09.HolidaysBetweenTwoDates.csprojResolveAssemblyReference.cache

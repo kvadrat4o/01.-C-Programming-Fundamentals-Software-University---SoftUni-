@@ -1,0 +1,6 @@
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Lists\RemoveNegativesAndReverse\obj\Debug\01.RemoveNegativesAndReverse.csprojResolveAssemblyReference.cache
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Lists\RemoveNegativesAndReverse\bin\Debug\01.RemoveNegativesAndReverse.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Lists\RemoveNegativesAndReverse\bin\Debug\01.RemoveNegativesAndReverse.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Lists\RemoveNegativesAndReverse\bin\Debug\01.RemoveNegativesAndReverse.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Lists\RemoveNegativesAndReverse\obj\Debug\01.RemoveNegativesAndReverse.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Lists\RemoveNegativesAndReverse\obj\Debug\01.RemoveNegativesAndReverse.pdb

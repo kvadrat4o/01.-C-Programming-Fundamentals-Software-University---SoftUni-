@@ -1,0 +1,5 @@
+C:\Users\dvasilev\Documents\Visual Studio 2013\Projects\StringAndTextProcessing\MultiplyBigNumbers\bin\Debug\MultiplyBigNumbers.exe.config
+C:\Users\dvasilev\Documents\Visual Studio 2013\Projects\StringAndTextProcessing\MultiplyBigNumbers\bin\Debug\MultiplyBigNumbers.exe
+C:\Users\dvasilev\Documents\Visual Studio 2013\Projects\StringAndTextProcessing\MultiplyBigNumbers\bin\Debug\MultiplyBigNumbers.pdb
+C:\Users\dvasilev\Documents\Visual Studio 2013\Projects\StringAndTextProcessing\MultiplyBigNumbers\obj\Debug\MultiplyBigNumbers.exe
+C:\Users\dvasilev\Documents\Visual Studio 2013\Projects\StringAndTextProcessing\MultiplyBigNumbers\obj\Debug\MultiplyBigNumbers.pdb

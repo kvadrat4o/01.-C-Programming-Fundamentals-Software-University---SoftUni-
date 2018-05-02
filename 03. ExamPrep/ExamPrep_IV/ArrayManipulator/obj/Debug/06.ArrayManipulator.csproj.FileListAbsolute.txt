@@ -1,0 +1,6 @@
+c:\users\dvasilev\documents\visual studio 2013\Projects\ExamPreparation\ArrayManipulator\obj\Debug\06.ArrayManipulator.csprojResolveAssemblyReference.cache
+c:\users\dvasilev\documents\visual studio 2013\Projects\ExamPreparation\ArrayManipulator\bin\Debug\ArrayManipulator.exe.config
+c:\users\dvasilev\documents\visual studio 2013\Projects\ExamPreparation\ArrayManipulator\bin\Debug\ArrayManipulator.exe
+c:\users\dvasilev\documents\visual studio 2013\Projects\ExamPreparation\ArrayManipulator\bin\Debug\ArrayManipulator.pdb
+c:\users\dvasilev\documents\visual studio 2013\Projects\ExamPreparation\ArrayManipulator\obj\Debug\ArrayManipulator.exe
+c:\users\dvasilev\documents\visual studio 2013\Projects\ExamPreparation\ArrayManipulator\obj\Debug\ArrayManipulator.pdb

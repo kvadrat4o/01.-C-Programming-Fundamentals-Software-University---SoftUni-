@@ -1,0 +1,5 @@
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Arrays\PizzaIngredients\bin\Debug\24.PizzaIngredients.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Arrays\PizzaIngredients\bin\Debug\24.PizzaIngredients.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Arrays\PizzaIngredients\bin\Debug\24.PizzaIngredients.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Arrays\PizzaIngredients\obj\Debug\24.PizzaIngredients.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Arrays\PizzaIngredients\obj\Debug\24.PizzaIngredients.pdb

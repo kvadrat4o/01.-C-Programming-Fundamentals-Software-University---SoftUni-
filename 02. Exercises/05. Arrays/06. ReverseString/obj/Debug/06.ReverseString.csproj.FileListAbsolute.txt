@@ -1,0 +1,5 @@
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Arrays\ReverseString\bin\Debug\06.ReverseString.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Arrays\ReverseString\bin\Debug\06.ReverseString.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Arrays\ReverseString\bin\Debug\06.ReverseString.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Arrays\ReverseString\obj\Debug\06.ReverseString.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Arrays\ReverseString\obj\Debug\06.ReverseString.pdb

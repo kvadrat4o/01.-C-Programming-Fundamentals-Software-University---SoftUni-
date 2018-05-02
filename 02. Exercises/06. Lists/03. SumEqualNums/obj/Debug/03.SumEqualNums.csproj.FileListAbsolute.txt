@@ -1,0 +1,6 @@
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Lists\SumEqualNums\bin\Debug\03.SumEqualNums.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Lists\SumEqualNums\bin\Debug\03.SumEqualNums.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Lists\SumEqualNums\bin\Debug\03.SumEqualNums.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Lists\SumEqualNums\obj\Debug\03.SumEqualNums.csprojResolveAssemblyReference.cache
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Lists\SumEqualNums\obj\Debug\03.SumEqualNums.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Lists\SumEqualNums\obj\Debug\03.SumEqualNums.pdb

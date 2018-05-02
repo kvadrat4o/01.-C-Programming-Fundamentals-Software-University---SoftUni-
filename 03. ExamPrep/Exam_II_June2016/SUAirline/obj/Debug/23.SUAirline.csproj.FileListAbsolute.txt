@@ -1,0 +1,6 @@
+E:\Coding\VSProjects\01.TechnologyFundamentals\1.1 Programing Fundamentals\11. ExamPreparation\SUAirline\bin\Debug\SUAirline.exe.config
+E:\Coding\VSProjects\01.TechnologyFundamentals\1.1 Programing Fundamentals\11. ExamPreparation\SUAirline\bin\Debug\SUAirline.exe
+E:\Coding\VSProjects\01.TechnologyFundamentals\1.1 Programing Fundamentals\11. ExamPreparation\SUAirline\bin\Debug\SUAirline.pdb
+E:\Coding\VSProjects\01.TechnologyFundamentals\1.1 Programing Fundamentals\11. ExamPreparation\SUAirline\obj\Debug\23.SUAirline.csprojResolveAssemblyReference.cache
+E:\Coding\VSProjects\01.TechnologyFundamentals\1.1 Programing Fundamentals\11. ExamPreparation\SUAirline\obj\Debug\SUAirline.exe
+E:\Coding\VSProjects\01.TechnologyFundamentals\1.1 Programing Fundamentals\11. ExamPreparation\SUAirline\obj\Debug\SUAirline.pdb

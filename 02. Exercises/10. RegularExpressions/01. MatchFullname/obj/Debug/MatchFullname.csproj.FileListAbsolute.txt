@@ -1,0 +1,6 @@
+c:\users\dido\documents\visual studio 2017\Projects\RegularExpressions\MatchFullName\bin\Debug\MatchFullName.exe.config
+c:\users\dido\documents\visual studio 2017\Projects\RegularExpressions\MatchFullName\bin\Debug\MatchFullName.exe
+c:\users\dido\documents\visual studio 2017\Projects\RegularExpressions\MatchFullName\bin\Debug\MatchFullName.pdb
+c:\users\dido\documents\visual studio 2017\Projects\RegularExpressions\MatchFullName\obj\Debug\MatchFullName.csprojResolveAssemblyReference.cache
+c:\users\dido\documents\visual studio 2017\Projects\RegularExpressions\MatchFullName\obj\Debug\MatchFullName.exe
+c:\users\dido\documents\visual studio 2017\Projects\RegularExpressions\MatchFullName\obj\Debug\MatchFullName.pdb

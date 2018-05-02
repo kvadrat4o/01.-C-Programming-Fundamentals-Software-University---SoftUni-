@@ -1,0 +1,6 @@
+c:\users\dvasilev\documents\visual studio 2013\Projects\ExamPreparation\Files\bin\Debug\Files.exe.config
+c:\users\dvasilev\documents\visual studio 2013\Projects\ExamPreparation\Files\obj\Debug\12.Files.csprojResolveAssemblyReference.cache
+c:\users\dvasilev\documents\visual studio 2013\Projects\ExamPreparation\Files\bin\Debug\Files.exe
+c:\users\dvasilev\documents\visual studio 2013\Projects\ExamPreparation\Files\bin\Debug\Files.pdb
+c:\users\dvasilev\documents\visual studio 2013\Projects\ExamPreparation\Files\obj\Debug\Files.exe
+c:\users\dvasilev\documents\visual studio 2013\Projects\ExamPreparation\Files\obj\Debug\Files.pdb

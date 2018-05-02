@@ -1,0 +1,5 @@
+C:\Users\dvasilev\Documents\SharpDevelop Projects\DataTypesAndVariables\TeraBTtoBits\bin\Debug\07.TeraBTtoBits.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\DataTypesAndVariables\TeraBTtoBits\bin\Debug\07.TeraBTtoBits.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\DataTypesAndVariables\TeraBTtoBits\bin\Debug\07.TeraBTtoBits.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\DataTypesAndVariables\TeraBTtoBits\obj\Debug\07.TeraBTtoBits.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\DataTypesAndVariables\TeraBTtoBits\obj\Debug\07.TeraBTtoBits.pdb

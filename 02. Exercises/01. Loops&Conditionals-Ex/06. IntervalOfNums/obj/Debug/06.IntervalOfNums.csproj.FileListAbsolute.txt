@@ -1,0 +1,5 @@
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Loops&Conditionals-Ex\IntervalOfNums\bin\Debug\06.IntervalOfNums.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Loops&Conditionals-Ex\IntervalOfNums\bin\Debug\06.IntervalOfNums.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Loops&Conditionals-Ex\IntervalOfNums\bin\Debug\06.IntervalOfNums.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Loops&Conditionals-Ex\IntervalOfNums\obj\Debug\06.IntervalOfNums.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Loops&Conditionals-Ex\IntervalOfNums\obj\Debug\06.IntervalOfNums.pdb

@@ -1,0 +1,6 @@
+C:\Users\dvasilev\Documents\SharpDevelop Projects\MethodsAnDebugging\ZeroesFactorial\obj\Debug\24.ZeroesFactorial.csprojResolveAssemblyReference.cache
+C:\Users\dvasilev\Documents\SharpDevelop Projects\MethodsAnDebugging\ZeroesFactorial\bin\Debug\24.ZeroesFactorial.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\MethodsAnDebugging\ZeroesFactorial\bin\Debug\24.ZeroesFactorial.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\MethodsAnDebugging\ZeroesFactorial\bin\Debug\24.ZeroesFactorial.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\MethodsAnDebugging\ZeroesFactorial\obj\Debug\24.ZeroesFactorial.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\MethodsAnDebugging\ZeroesFactorial\obj\Debug\24.ZeroesFactorial.pdb

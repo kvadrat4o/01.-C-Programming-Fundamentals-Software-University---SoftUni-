@@ -1,0 +1,5 @@
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Arrays\SumArrays\bin\Debug\07.SumArrays.exe.config
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Arrays\SumArrays\bin\Debug\07.SumArrays.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Arrays\SumArrays\bin\Debug\07.SumArrays.pdb
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Arrays\SumArrays\obj\Debug\07.SumArrays.exe
+C:\Users\dvasilev\Documents\SharpDevelop Projects\Arrays\SumArrays\obj\Debug\07.SumArrays.pdb
